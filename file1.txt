@@ -1,3 +1,5 @@
 this is file one
 
 doing another change in file 1 to track commits
+
+stashed changes file one
